@@ -1,0 +1,14 @@
+[
+  {
+    "Floor":"Floor 1",
+    "People_Count":22
+  },
+  {
+    "Floor":"Floor 2",
+    "People_Count":24
+  },
+  {
+    "Floor":"Floor 3",
+    "People_Count":50
+  }
+]
