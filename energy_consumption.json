@@ -1,0 +1,98 @@
+[
+  {
+    "Timestamp":"2026-03-10 00:00:00",
+    "Energy_kWh":29
+  },
+  {
+    "Timestamp":"2026-03-10 01:00:00",
+    "Energy_kWh":66
+  },
+  {
+    "Timestamp":"2026-03-10 02:00:00",
+    "Energy_kWh":61
+  },
+  {
+    "Timestamp":"2026-03-10 03:00:00",
+    "Energy_kWh":76
+  },
+  {
+    "Timestamp":"2026-03-10 04:00:00",
+    "Energy_kWh":66
+  },
+  {
+    "Timestamp":"2026-03-10 05:00:00",
+    "Energy_kWh":53
+  },
+  {
+    "Timestamp":"2026-03-10 06:00:00",
+    "Energy_kWh":43
+  },
+  {
+    "Timestamp":"2026-03-10 07:00:00",
+    "Energy_kWh":72
+  },
+  {
+    "Timestamp":"2026-03-10 08:00:00",
+    "Energy_kWh":74
+  },
+  {
+    "Timestamp":"2026-03-10 09:00:00",
+    "Energy_kWh":52
+  },
+  {
+    "Timestamp":"2026-03-10 10:00:00",
+    "Energy_kWh":70
+  },
+  {
+    "Timestamp":"2026-03-10 11:00:00",
+    "Energy_kWh":26
+  },
+  {
+    "Timestamp":"2026-03-10 12:00:00",
+    "Energy_kWh":48
+  },
+  {
+    "Timestamp":"2026-03-10 13:00:00",
+    "Energy_kWh":36
+  },
+  {
+    "Timestamp":"2026-03-10 14:00:00",
+    "Energy_kWh":46
+  },
+  {
+    "Timestamp":"2026-03-10 15:00:00",
+    "Energy_kWh":47
+  },
+  {
+    "Timestamp":"2026-03-10 16:00:00",
+    "Energy_kWh":20
+  },
+  {
+    "Timestamp":"2026-03-10 17:00:00",
+    "Energy_kWh":50
+  },
+  {
+    "Timestamp":"2026-03-10 18:00:00",
+    "Energy_kWh":20
+  },
+  {
+    "Timestamp":"2026-03-10 19:00:00",
+    "Energy_kWh":79
+  },
+  {
+    "Timestamp":"2026-03-10 20:00:00",
+    "Energy_kWh":57
+  },
+  {
+    "Timestamp":"2026-03-10 21:00:00",
+    "Energy_kWh":39
+  },
+  {
+    "Timestamp":"2026-03-10 22:00:00",
+    "Energy_kWh":58
+  },
+  {
+    "Timestamp":"2026-03-10 23:00:00",
+    "Energy_kWh":35
+  }
+]
